@@ -1,4 +1,5 @@
-## Hi 👋, I'm Priyanshu Mishra 
+## Hi 👋, I'm Priyanshu Mishra
+
 
 🚀 MERN Stack Developer
 
@@ -6,7 +7,8 @@
 
 🌱 Currently exploring System Design & AI Integration
 
-👨‍💻 About Me
+
+## 👨‍💻 About Me
 
 I am a passionate MERN Stack Developer specializing in building scalable full-stack web applications using MongoDB, Express.js, React.js, and Node.js.
 
@@ -23,6 +25,14 @@ With 10+ months of experience as a Software Development Intern, I have delivered
 📈 Improved performance & SEO scores from <50 → 90+
 
 🧠 Solved 200+ LeetCode problems
+
+## 🎓 Education  
+
+🎓 Bachelor of Technology (B.Tech) in Information Technology
+
+📍Madan Mohan Malaviya University of Technology  
+
+📅 2022 – 2026
 
 🛠️ Tech Stack
 
