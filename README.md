@@ -34,7 +34,7 @@ With 10+ months of experience as a Software Development Intern, I have delivered
 
 📅 2022 – 2026
 
-🛠️ Tech Stack
+##     🛠️ Tech Stack
 
 ## Programming Languages:
 C++, Python, JavaScript, SQL
