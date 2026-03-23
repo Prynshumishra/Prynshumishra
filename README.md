@@ -1,16 +1,50 @@
-## Hi there 👋
+Hi 👋, I'm Priyanshu Mishra
 
-<!--
-**Prynshumishra/Prynshumishra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 MERN Stack Developer
+💻 Building scalable full-stack web applications
+🌱 Currently exploring System Design & AI Integration
 
-Here are some ideas to get you started:
+👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a passionate MERN Stack Developer specializing in building scalable full-stack web applications using MongoDB, Express.js, React.js, and Node.js.
+
+With 10+ months of experience as a Software Development Intern, I have delivered multiple production-ready applications by transforming business requirements into reliable digital solutions.
+
+⚡ Built 3+ full-stack client projects (MERN + WordPress)
+🔗 Developed RESTful & GraphQL APIs
+🎨 Created modern UI using React, Next.js & Tailwind CSS
+🤖 Leveraging AI tools like GitHub Copilot, Cursor, Claude
+📈 Improved performance & SEO scores from <50 → 90+
+🧠 Solved 200+ LeetCode problems
+🛠️ Tech Stack
+
+Frontend:
+React.js, Next.js, Tailwind CSS, ShadCN
+
+Backend:
+Node.js, Express.js
+
+Database:
+MongoDB
+
+Tools & Platforms:
+Git, Postman, Cloudinary
+
+🔥 Featured Projects
+
+🚗 RideShare – Smart carpooling platform
+🏥 HealthCare System – MERN-based management system
+📊 WorkSync – Project & client dashboard
+
+💼 Experience Highlights
+🚀 Collaborated in a team to deliver 3+ full-stack projects from Figma to production
+🌍 Built applications with i18n support and user-friendly UI
+🔐 Developed features like a secure admin impersonation system
+⚡ Optimized apps using image compression, asset minification & DB optimization
+📫 Connect with Me
+🔗 LinkedIn: https://linkedin.com/in/prynshumishr
+🌐 Portfolio: https://priyanshumishra.vercel.app/
+
+⚡ Fun Fact
+
+⭐ Code. Build. Learn. Repeat.
