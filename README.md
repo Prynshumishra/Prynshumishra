@@ -1,83 +1,67 @@
+
 ## Hi 👋, I'm Priyanshu Mishra
 
+🚀 Full Stack Developer & AI Integration Specialist  
+💻 Building scalable enterprise SaaS applications & intelligent systems  
+🌱 Currently exploring advanced LLM Tool Calling & Multi-tenant Architectures  
 
-🚀 MERN Stack Developer
+## 👨💻 About Me
 
-💻 Building scalable full-stack web applications
+I am a passionate Full Stack Developer specializing in building scalable web applications using the MERN stack, Next.js, and modern AI integrations.
 
-🌱 Currently exploring System Design & AI Integration
+With **15+ months of internship experience** (including roles at Techbaba Compare Ltd. and MarTech Union), I have delivered numerous production-ready applications by transforming complex business requirements into reliable digital solutions.
 
-
-## 👨‍💻 About Me
-
-I am a passionate MERN Stack Developer specializing in building scalable full-stack web applications using MongoDB, Express.js, React.js, and Node.js.
-
-With 10+ months of experience as a Software Development Intern, I have delivered multiple production-ready applications by transforming business requirements into reliable digital solutions.
-
-⚡ Built 3+ full-stack client projects (MERN + WordPress)
-
-🔗 Developed RESTful & GraphQL APIs
-
-🎨 Created modern UI using React, Next.js & Tailwind CSS
-
-🤖 Leveraging AI tools like GitHub Copilot, Cursor, Claude
-
-📈 Improved performance & SEO scores from <50 → 90+
-
-🧠 Solved 200+ LeetCode problems
+⚡ **Built 10+ production client websites & SaaS platforms**  
+🔗 **Developed 15+ REST APIs & AI Integrations**  
+🎨 **Created modern, glassmorphic UIs** using React, Next.js, Tailwind CSS & Shadcn UI  
+🤖 **Engineered LLM-powered applications** with secure function calling and database injection  
+📈 **Improved performance & SEO scores** from <50 → 90+ through advanced optimizations  
+🧠 **Solved 200+ LeetCode problems**  
 
 ## 🎓 Education  
 
-🎓 Bachelor of Technology (B.Tech) in Information Technology
+🎓 **Bachelor of Technology (B.Tech) in Information Technology**  
+📍 Madan Mohan Malaviya University of Technology  
+📅 2022 – 2026  
 
-📍Madan Mohan Malaviya University of Technology  
+## 🛠️ Tech Stack
 
-📅 2022 – 2026
+**Programming Languages:**  
+C++, Python, JavaScript, TypeScript, SQL  
 
-##     🛠️ Tech Stack
+**Frontend:**  
+React.js, Next.js (App Router), Tailwind CSS, Shadcn UI, Framer Motion  
 
-## Programming Languages:
-C++, Python, JavaScript, SQL
+**Backend & Architecture:**  
+Node.js, Express.js, REST API design, Spring Boot, Multi-tenant Architecture, RBAC  
 
-## Frontend:
-React.js, Next.js, Tailwind CSS, ShadCN, 
+**Database:**  
+MongoDB (Mongoose), PostgreSQL, MySQL, Redis, Schema Design  
 
-## Backend:
- Node.js, Express.js, REST API design, authentication (JWT, OAuth)
+**AI, Tools & Integrations:**  
+LLM Function Calling, Stripe, node-cron, Nodemailer, Clerk Auth, JWT, OAuth, Git, Postman  
 
-## Database:
-MongoDB (Mongoose), schema design, PostgreSQL, MYSQL
+## 🔥 Featured Projects
 
-## Other Skills: 
-API integration, state management, responsive UI/UX, deployment (Vercel, Netlify), Git/GitHub
+🤖 **AI Enterprise Chatbot** – Full-Stack enterprise AI platform leveraging LLM Tool Calling to securely query live MongoDB data. Production-ready with IP rate limiting, session capping, Clerk auth, and optimistic UI updates.  
+🏢 **Grove Vista Properties** – Next.js real estate listing platform with dynamic property pages, advanced search, and user authentication.  
+🚗 **RideShare** – Smart carpooling platform connecting travelers. Built with the MERN stack, Cloudinary, JWT, and real-time features.  
+🏥 **HealthCare System** – Modern healthcare management platform connecting patients, doctors, and administrators with an interactive admin dashboard.  
+🌐 **Portfolio** – Personal developer portfolio showcasing projects & skills with custom Framer Motion animations.  
 
-## Tools & Platforms:
-Git, Postman, Cloudinary
+## 💼 Experience Highlights
 
-🔥 Featured Projects
+🚀 **Engineered a Multi-Tenant SaaS Platform:** Developed a comprehensive airport parking management system for 7+ websites with secure data isolation, Stripe subscriptions, and automated background cron jobs.  
+🚀 **Production Delivery:** Collaborated in a team to deliver full-stack projects from Figma to production, including building custom WordPress/React hybrid solutions.  
+🔐 **Advanced Security:** Developed robust features like secure admin impersonation systems, custom HTTP header data isolation, and hierarchical RBAC.  
+⚡ **Optimization:** Optimized apps using image compression, asset minification, caching, and DB query optimization.  
 
-🚗 RideShare – Smart carpooling platform
+## 📫 Connect with Me
 
-🏥 HealthCare System – MERN-based management system
+🔗 **LinkedIn:** [https://linkedin.com/in/prynshumishr](https://linkedin.com/in/prynshumishr)  
+🌐 **Portfolio:** [https://portfolio-priyanshumishra9.vercel.app/](https://portfolio-priyanshumishra9.vercel.app/)  
 
-🌐 **Portfolio** – Personal developer portfolio showcasing projects & skills 
-
-💼 Experience Highlights
-
-🚀 Collaborated in a team to deliver 3+ full-stack projects from Figma to production
-
-🌍 Built applications with i18n support and user-friendly UI
-
-🔐 Developed features like a secure admin impersonation system
-
-⚡ Optimized apps using image compression, asset minification & DB optimization
-
-📫 Connect with Me
-
-🔗 LinkedIn: https://linkedin.com/in/prynshumishr
-
-🌐 Portfolio: https://priyanshumishra.vercel.app/
-
-⚡ Fun Fact
+## ⚡ Fun Fact
 
 ⭐ Code. Build. Learn. Repeat.
+```
