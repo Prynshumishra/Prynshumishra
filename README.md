@@ -2,11 +2,11 @@
 
 ### 🚀 Full-Stack Software Engineer · AI & Agentic Systems Architect · Multi-Tenant SaaS Specialist
 
-💼 **17+ Production Applications Shipped** &nbsp;|&nbsp; ⚡ **45% API Latency Reduction** &nbsp;|&nbsp; 🛡️ **99.9% Production Uptime** &nbsp;|&nbsp; 🧠 **400+ LeetCode Solved**
+💼 **17+ Production Applications Shipped** &nbsp;|&nbsp; ⚡ **45% API Latency Reduction** &nbsp;|&nbsp; 🛡️ **99.9% Production Uptime** &nbsp;|&nbsp; 🧠 **450+ LeetCode Solved**
 
 > *"I bridge the gap between complex business requirements and resilient, AI-powered production software—architecting scalable full-stack platforms, multi-tenant SaaS ecosystems, and autonomous LLM workflows that drive measurable ROI."*
 
-📍 **Open to Full-Time Software Engineer (SDE / Full-Stack / AI Engineer) & High-Impact Roles**  
+📍 **Open to Full-Time Software Engineer (SDE / Backend / Full-Stack / AI Engineer) & High-Impact Roles**  
 🌐 **[Live Portfolio](https://priyanshumishra.vercel.app)** &nbsp;·&nbsp; 💼 **[LinkedIn](https://linkedin.com/in/prynshumishr)** &nbsp;·&nbsp; 📧 **[prynshu09@gmail.com](mailto:prynshu09@gmail.com)** &nbsp;·&nbsp; 🧩 **[LeetCode](https://leetcode.com/u/prynshu09/)**
 
 ---
@@ -53,7 +53,7 @@ I build **production-grade AI systems** designed for reliability, security, low 
 
 ## 💼 Professional Experience
 
-### **Software Developer Intern** — *OnGraph Technologies* `(Jul 2026 – Sep 2026)`
+### **Software Developer Intern** — *OnGraph Technologies* `(Jul 2026 – Present)`
 - 🚀 **Multi-Tenant SaaS Architecture:** Spearheaded development of an enterprise airport parking management SaaS & admin platform powering **7+ live websites and 2,500+ bookings** (`Node.js`, `Next.js`, `React`, `MySQL`), increasing operational efficiency by **35%** and lowering transactional overhead by **40%**.
 - ⚡ **High-Throughput API Engineering:** Built and maintained **50+ REST APIs** in Node.js & Express.js; refactored high-traffic endpoints and optimized MySQL composite indexes & joins to cut server response latency by **45%**.
 - 🔐 **Security, FinTech & Automation:** Architected strict tenant data isolation, hierarchical RBAC permissions, automated PDF invoice generation, **Stripe webhook pipelines**, real-time **WebSocket** notifications, and `node-cron` inventory synchronization.
@@ -98,7 +98,7 @@ I build **production-grade AI systems** designed for reliability, security, low 
 
 ## 🧩 Algorithmic Problem Solving & Engineering Rigor
 
-- 🏆 **400+ Problems Solved on LeetCode** (`1500+` Contest Rating) — Strong command over *Data Structures, Algorithms, Dynamic Programming, Graphs, Trees, and Complex SQL Queries*.
+- 🏆 **450+ Problems Solved on LeetCode** (`1500+` Contest Rating) — Strong command over *Data Structures, Algorithms, Dynamic Programming, Graphs, Trees, and Complex SQL Queries*.
 - 💻 **780+ GitHub Contributions** across `30+` repositories with clean commit history, modular architecture, and production documentation.
 
 ---
@@ -113,9 +113,9 @@ I build **production-grade AI systems** designed for reliability, security, low 
 
 ## 📫 Let's Connect & Build Together
 
-I am actively looking for **Full-Stack Software Engineer / Backend Engineer / AI Engineer** opportunities where I can contribute to high-scale products and intelligent systems.
+I am actively looking for **Full-Stack / Software Engineer / Backend Engineer / AI Engineer** opportunities where I can contribute to high-scale products and intelligent systems.
 
-- 🌐 **Portfolio & Live Demos:** [https://priyanshumishra.vercel.app](https://priyanshumishra.vercel.app)
+- 🌐 **Portfolio:** [https://priyanshumishra.vercel.app](https://priyanshumishra.vercel.app)
 - 💼 **LinkedIn:** [https://linkedin.com/in/prynshumishr](https://linkedin.com/in/prynshumishr)
 - 📧 **Email:** [prynshu09@gmail.com](mailto:prynshu09@gmail.com)
 - 🐙 **GitHub:** [https://github.com/Prynshumishra](https://github.com/Prynshumishra)
